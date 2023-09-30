@@ -1,4 +1,4 @@
-![logo](https://github.com/Biswaranjansahoo96/Biswaranjansahoo96/blob/main/Colorful%20geometric%20Designer%20LinkedIn%20Banner.png)
+![logo](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
 <h1 align="center">Hi 👋, I'm Biswaranjan Sahoo</h1>
 <h3 align="center">A Programming Enthusiast, Passionate and self-motivated to build a solution for technical real world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2022/11/Hacker.gif">
